@@ -1,0 +1,10 @@
+C:\ProyC#\ProyCRUDEmp\ProyCRUDEmp\bin\Debug\ProyCRUDEmp.exe.config
+C:\ProyC#\ProyCRUDEmp\ProyCRUDEmp\bin\Debug\ProyCRUDEmp.exe
+C:\ProyC#\ProyCRUDEmp\ProyCRUDEmp\bin\Debug\ProyCRUDEmp.pdb
+C:\ProyC#\ProyCRUDEmp\ProyCRUDEmp\obj\Debug\ProyCRUDEmp.csproj.AssemblyReference.cache
+C:\ProyC#\ProyCRUDEmp\ProyCRUDEmp\obj\Debug\ProyCRUDEmp.Menu.resources
+C:\ProyC#\ProyCRUDEmp\ProyCRUDEmp\obj\Debug\ProyCRUDEmp.Properties.Resources.resources
+C:\ProyC#\ProyCRUDEmp\ProyCRUDEmp\obj\Debug\ProyCRUDEmp.csproj.GenerateResource.cache
+C:\ProyC#\ProyCRUDEmp\ProyCRUDEmp\obj\Debug\ProyCRUDEmp.csproj.CoreCompileInputs.cache
+C:\ProyC#\ProyCRUDEmp\ProyCRUDEmp\obj\Debug\ProyCRUDEmp.exe
+C:\ProyC#\ProyCRUDEmp\ProyCRUDEmp\obj\Debug\ProyCRUDEmp.pdb
